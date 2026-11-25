@@ -1,3 +1,3 @@
 ## Power BI Dashboard Preview
 
-![Olist Dashboard](Screenshots/dashboard.png)
+![Olist Dashboard](Screenshots/Olist_Dashboard.png))
